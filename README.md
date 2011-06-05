@@ -1,3 +1,6 @@
+`Warning not yet ready for use`
+===========================================
+
 Cerb5 Plugins - cerb5blog.va.sitewide
 ===========================================
 Copyright (C) 2011 Robert Middleswarth
